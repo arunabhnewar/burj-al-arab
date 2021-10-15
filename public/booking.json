@@ -1,0 +1,52 @@
+[
+    {
+        "id": "superior",
+        "name": "Superior Room",
+        "person": "2 adults",
+        "size": "30m²",
+        "rent": 300,
+        "img": "https://booking-hotel-room.netlify.app/superior.png",
+        "summary": "Unwind with plush bedding, free Wi-Fi and a smart TV in this standard room. and an in-room safe to secure your valuables.",
+        "description": "These standard rooms come with one king or two double beds, elegant linens, and comfortable armchairs. In the mornings, brew yourself a cup of coffee with the coffeemaker as you get ready for the day. If you need to, set up your laptop at the work desk and check email using free Wi-Fi. At the end of the day, you can relax with the soothing rain shower in the spacious bathroom, and then stream your favorite show on the TV with mirror casting before heading to bed. Other amenities include a wardrobe, double-glazed windows, and an in-room safe to secure your valuables."
+    },
+    {
+        "id": "deluxe",
+        "name": "Deluxe Room",
+        "person": "2 adults",
+        "size": "35m²",
+        "rent": 500,
+        "img": "https://booking-hotel-room.netlify.app/deluxe.png",
+        "summary": "For More space, choose this deluxe room with free Wi-Fi and an in-room work desk and an in-room safe.",
+        "description": "Our Deluxe Room comes with either two double beds or one king bed, depending on your needs, and offers more space than the standard rooms. Unwind from your travels with a spacious bathroom with a rain shower. In the mornings, you can brew coffee in your room and check email or make ticket reservations with free Wi-Fi. After a long day of work or sightseeing, grab a drink from the minibar, relax in the plush armchair, and stream your favorite show on the smart TV. These rooms also include a wardrobe, double-glazed windows, and all other standard amenities.."
+    },
+    {
+        "id": "business",
+        "name": "Business Room",
+        "person": "2 adults",
+        "size": "40m²",
+        "rent": 800,
+        "img": "https://booking-hotel-room.netlify.app/business.png",
+        "summary": "Travelling for work? You'll love this upgraded room with complimentary breakfasts and airport transfers.",
+        "description": "Corporate travelers love our Business Class Rooms, which come with two twin beds, perfect for traveling with colleagues, or one king bed. Enjoy plush bedding, a spacious bathroom, and all standard amenities. Additionally, take advantage of the following complimentary upgrades: a bathrobe and slippers, daily turndown service, four pieces of complimentary laundry, a daily breakfast at the Business Class lounge or Water Garden Brasserie, and complimentary airport transfers."
+    },
+    {
+        "id": "luxury",
+        "name": "Luxury Room",
+        "person": "2 adults",
+        "size": "70m²",
+        "rent": 1000,
+        "img": "https://booking-hotel-room.netlify.app/luxury.png",
+        "summary": "For an extended stay or for extra space, choose one of our Suites featuring a separate living area.",
+        "description": "For an extended stay or for extra space, choose one of our Suites. These spacious surroundings include a separate living area and a bedroom with either two double beds or  one king bed  for ultimate comfort and privacy. You can chat with friends or colleagues in the living area and then retire to the separate bedroom for a quiet night’s sleep. In addition to all standard amenities, our Suites include a free deep sleep pillow spray and turndown service every evening."
+    },
+    {
+        "id": "suite",
+        "name": "Suite Room",
+        "person": "2 adults",
+        "size": "90m²",
+        "rent": 1250,
+        "img": "https://booking-hotel-room.netlify.app/suite.png",
+        "summary": "For an extended stay or for extra space, choose one of our Suites featuring a separate living area.",
+        "description": "For an extended stay or for extra space, choose one of our Suites. These spacious surroundings include a separate living area and a bedroom with either two double beds or  one king bed  for ultimate comfort and privacy. You can chat with friends or colleagues in the living area and then retire to the separate bedroom for a quiet night’s sleep. In addition to all standard amenities, our Suites include a free deep sleep pillow spray and turndown service every evening."
+    }
+]

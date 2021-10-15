@@ -1,0 +1,14 @@
+.room-card {
+    background-color: bisque;
+}
+.room-booking ul {
+    display: flex;
+    justify-content:left;
+    text-align: left;
+}
+.room-booking ul li {
+    list-style: none;
+    padding: 5px;
+    color: gray;
+    /* border-right: 1px solid gray; */
+}
